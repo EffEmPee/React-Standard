@@ -10,4 +10,4 @@
 
 ## About the config
 
-<p style="text-">In this code, I'm using the option "To check syntax, find problems and enforce conde style" and the <a href="https://github.com/airbnb/javascript" target="_blank" style="color:black;text-decoration: underline;">Airbnb</a> style.</p>
+<p style="text-">In this code, I'm using the option "To check syntax, find problems and enforce conde style" and the <a href="https://github.com/airbnb/javascript" style="color:black;text-decoration: underline;">Airbnb</a> style.</p>
