@@ -6,6 +6,7 @@
 ```
 - Change the folder name to your project name
 - Change the config into **package.json** to your project preferences
+- Also, change the title tag in **index.html** to yout project title
 <p style="text-align:left; margin-left: 40px"><b>🎉 Now, happy coding! 🎉</b></p>
 
 ## About the config
